@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 Olipa kerran sen pituinen se joka oli niin pitkä vain kerran.
+=======
+Olipa kerran kuningas ja sen pituinen se.
+>>>>>>> Stashed changes
